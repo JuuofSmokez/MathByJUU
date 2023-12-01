@@ -1,0 +1,25 @@
+\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage[all]{xy}
+
+
+\usepackage{amsmath,amsthm,amssymb,color,latexsym}
+\usepackage{geometry}        
+\geometry{letterpaper}    
+\usepackage{graphicx}
+\newcommand\Set[1]{\{ #1 \}}
+\DeclareMathOperator{\Gr}{Gf}
+\DeclareMathOperator{\Id}{Id}
+\newtheorem{problem}{Problem}
+\usepackage{enumitem}
+\usepackage{tikz-cd}
+\newenvironment{solution}[1][\it{Solution}]{\textbf{#1. } }{$\square$}
+\newcommand{\RR}{\mathbb{R}}
+\newcommand{\FF}{\mathbb{F}}
+\newcommand{\NN}{\mathbb{N}}
+\newcommand{\QQ}{\mathbb{Q}}
+\newcommand{\ZZ}{\mathbb{Z}}
+\newcommand{\ee}{\varepsilon}
+\newcommand{\Tau}{\mathcal{T}}
+\begin{document}
+\end{document}
