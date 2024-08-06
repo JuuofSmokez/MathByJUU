@@ -1,0 +1,16 @@
+	\begin{problem}
+	Write here the text of the first homework problem.
+\end{problem}
+\begin{solution}
+	Write here the solution of the first homework problem.
+\end{solution} 
+
+\begin{problem}
+	Write here the text of the second homework problem.
+\end{problem}
+\begin{solution}
+	Write here the solution of the second homework problem.
+\end{solution}
+\begin{problem}
+content...
+\end{problem}
